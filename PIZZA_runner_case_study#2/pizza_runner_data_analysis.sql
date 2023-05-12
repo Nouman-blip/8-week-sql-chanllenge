@@ -1,5 +1,5 @@
 /*
-DATA ANALYSIS OF PIZZA RUNNER USING PYTHON
+DATA ANALYSIS OF PIZZA RUNNER USING SQL
 
 */
 ---------------------------------------------------------------------------
